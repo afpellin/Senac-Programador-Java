@@ -1,2 +1,3 @@
 # SenacProgramadorJava
-Conteúdo do curso de programador Java do Senac
+Conteúdo do curso programador Java do Senac
+Siga-me nas redes sociais!
